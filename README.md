@@ -5,7 +5,7 @@
 
 <h1 align="center">AncientMonkey</h1>                                                           
                                                                                   
-Current Weapons:                                                                                  
+Current Weapons: nothing                                                                              
 -15 Common Weapons                                                                                  
 -17 Rare Weapons                                                                                  
 -20 Epic Weapons                                                                                  
